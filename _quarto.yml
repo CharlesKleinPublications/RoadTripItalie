@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Little chalet"
+  
+  navbar:
+    false
+
+
+
+title: "Little chalet"
+author: "Charles Klein"
+
+description: >
+  Publication photographique de Charles Klein. Un zine de photographies qui
+  présente le chalet familial de vacances de l'auteur.
+
+keywords:
+  - photographie d'auteur
+  - Charles Klein
+  - Chalet
+  - Artiste
+  - Fragments
+  - photographie contemporaine couleure
+
+canonical: "https://charleskleinpublications.github.io/little_chalet/"
+
+
+format:
+
+  html:
+    theme: none
+    css:
+      - css/monolithe.css
+
+    include-after-body: 
+     text: |
+      <script src="js/navigation.js"></script>
+
+    toc: false
+    page-layout: full

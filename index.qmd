@@ -1,0 +1,397 @@
+---
+title: "Litte_chalet"
+format:
+  html:
+    toc: false
+---
+
+
+<div id="book">
+
+
+<!-- =========================
+     COUVERTURE   
+========================= -->
+
+::: {.cover-page .page}
+::: {.cover-content}
+## Little chalet
+
+:::
+::: {.language-choice}
+[FR]{#lang-fr-button}
+[·]{.language-separator}
+[EN]{#lang-en-button}
+:::
+:::
+
+
+<!-- =========================
+     PAGE TEXTE INTRODUCTION
+========================= -->
+::: {.text-page .page}
+::: {.lang-fr}
+::: {.text-content}
+## Le chalet
+
+Une histoire de famille 
+
+:::
+:::
+
+::: {.lang-en}
+::: {.text-content}
+## Little chalet
+
+A family story
+:::
+:::
+:::
+
+<!-- =========================
+     PHOTOGRAPHIE S01
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-1_chalet_exterieur.jpg"
+alt="Chalet - Extérieur - Charles Klein">
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S02
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-2_chalet_vue_table_manger.jpg"
+alt="Chalet - Salle à manger - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S03
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-3_chalet_niche_accordeon.jpg"
+alt="Chalet - Coin accordéon - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S04
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-4_chalet_niche_cabinet.jpg"
+alt="Chalet - Coin curiosités - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S05
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-5_chalet_vue_angle_salon.jpg"
+alt="halet - Vue angle salon - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S06
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-6_chalet_armoire_sejour.jpg"
+alt="Chalet - Armoire salon -Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S07
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-7_chalet_chapeau_vitre.jpg"
+alt="Chalet - Fenêtre avec chapeau - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S08
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-8_chalet_divan_chapeau_aout_20.jpg"
+alt="Chalet - Divan avec livre et chapeau - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S09
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-9_chalet_poele_placard.jpg"
+alt="Chalet - Entrée poêle placard - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S10
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-10_chalet_table_sculptures.jpg"
+alt="Chalet - Vue table et scupltures - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S11
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-11_chalet_corps_fourneau_placard.jpg"
+alt="Chalet - Corps poêle et placard - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S12
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-12_chalet_placard_10h50.jpg"
+alt="Chalet - Dessus du placard à 10H50 - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S13
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-13_chalet_coffre_peintures_FK.jpg"
+alt="Chalet - Coffre et oeuvres peintes et sculptées - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S14
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-14_chalet_scarabee_aout_20.jpg"
+alt="Chalet - Le scarabée - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S15
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-15_chalet_2peintures_PK_aout_20.jpg"
+alt="Chalet- 2 peintures Pierre Klein - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+
+<!-- =========================
+     PHOTOGRAPHIE S16
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-16_chalet_vue_cuisine.jpg"
+alt="Chalet- Vue cuisine - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+
+<!-- =========================
+     PHOTOGRAPHIE S17
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-17_chalet_evier_gaz.jpg"
+alt="Chalet- Cuisine - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S18
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-18_chalet_chambre_derriere_fenetre_cadre.jpg"
+alt="Chalet - Chambre du fond - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S19
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-19_chalet_derriere_lit2.jpg"
+alt="Chalet - Lit chambre du fond - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+
+<!-- =========================
+     PHOTOGRAPHIE S20
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-20_chalet_chambre_derriere_lit.jpg"
+alt="Chalet - Lit chambre de derrière - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S21
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-21_chalet_chambre_derriere_etagere.jpg"
+alt="Chalet - Etagères chambre de derrière - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S22
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-22_chalet_chambre_nicole_lit_violet.jpg"
+alt="Chalet - Lit chambre de Nicole - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr=""
+    data-en="">
+ </div>
+</section>
+
+
+<!-- =========================
+     PAGE DE FIN
+========================= -->
+::: {.text-page .page}
+::: {.lang-fr}
+::: {.text-content}
+### Charles Klein — Tous droits réservés
+[charlesklein.photos](https://charlesklein.photos/fr/accueil){target="_blank"}
+
+:::
+:::
+
+::: {.lang-en}
+::: {.text-content}
+### Charles Klein — All rights reserved
+[charlesklein.photos](https://charlesklein.photos/en/home){target="_blank"}
+
+:::
+:::
+:::
+
+<!-- =========================
+     FIN DU LIVRE
+========================= -->
+</div>
+
+<!-- Compteur -->
+
+<div id="page-counter"></div>
+
+<!-- Zones de navigation -->
+
+<div class="nav-left"></div>
+
+<div class="nav-right"></div>
