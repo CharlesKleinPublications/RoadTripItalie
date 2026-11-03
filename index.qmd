@@ -1,5 +1,5 @@
 ---
-title: "Litte_chalet"
+title: "Road_Trip_Italy"
 format:
   html:
     toc: false
@@ -15,7 +15,7 @@ format:
 
 ::: {.cover-page .page}
 ::: {.cover-content}
-## Little chalet
+## Road trip in Italy
 
 :::
 ::: {.language-choice}
