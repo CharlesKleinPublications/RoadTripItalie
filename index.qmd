@@ -32,18 +32,16 @@ format:
 ::: {.text-page .page}
 ::: {.lang-fr}
 ::: {.text-content}
-## Le chalet
+## Une virée en Italie
 
-Une histoire de famille 
 
 :::
 :::
 
 ::: {.lang-en}
 ::: {.text-content}
-## Little chalet
+## Road trip in Italy
 
-A family story
 :::
 :::
 :::
@@ -52,15 +50,36 @@ A family story
      PHOTOGRAPHIE S01
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-1_chalet_exterieur.jpg"
-alt="Chalet - Extérieur - Charles Klein">
+<img src="images/c-klein-1_Italie_Lac_Majeur.jpg"
+alt="Italie - Lac_Majeur - Charles Klein">
 <div
     class="caption"
-    data-fr=""
-    data-en="">
+    data-fr="Arrivée par le Lac Majeur, Isola Bella"
+    data-en="Arrival via Lake Maggiore, Isola Bella ">
  </div>
 
 </section>
+
+<!-- =========================
+     PAGE TEXTE INTRODUCTION
+========================= -->
+::: {.text-page .page}
+::: {.lang-fr}
+::: {.text-content}
+## Pise
+
+
+:::
+:::
+
+::: {.lang-en}
+::: {.text-content}
+## Pisa
+
+:::
+:::
+:::
+
 
 <!-- =========================
      PHOTOGRAPHIE S02
