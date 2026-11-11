@@ -254,8 +254,8 @@ alt="Italie - Venise - Masque en vitrine - Charles Klein"
      PHOTOGRAPHIE S13
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-12_Italie_Venise_Masque en vitrine.jpg"
-alt="Chalet - Coffre et oeuvres peintes et sculptées - Charles Klein"
+<img src="images/c-klein-13_Italie_Venise_Masque soleil.jpg"
+alt="Italie - Venise - Masque de soleil - Charles Klein"
 >
 <div
     class="caption"
@@ -268,13 +268,27 @@ alt="Chalet - Coffre et oeuvres peintes et sculptées - Charles Klein"
      PHOTOGRAPHIE S14
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-14_chalet_scarabee_aout_20.jpg"
-alt="Chalet - Le scarabée - Charles Klein"
+<img src="images/c-klein-14_Italie_Venise_Canal_depart.jpg"
+alt="Italie - Venise - Canal soleil couchant - Charles Klein"
 >
 <div
     class="caption"
-    data-fr=""
-    data-en="">
+    data-fr="Départ, fin de journée"
+    data-en="Departure at the end of the day">
+ </div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S14-2
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-14-2_Italie_Venise_Arrivée_Gare.jpg"
+alt="Italie - Venise - Bateaux à la gare - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr="Départ, fin de journée"
+    data-en="Departure at the end of the day">
  </div>
 </section>
 
@@ -282,28 +296,41 @@ alt="Chalet - Le scarabée - Charles Klein"
      PHOTOGRAPHIE S15
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-15_chalet_2peintures_PK_aout_20.jpg"
-alt="Chalet- 2 peintures Pierre Klein - Charles Klein"
+<img src="images/c-klein-15_Italie_Venise_Gare.jpg"
+alt="Italie - Venise - Gare - Charles Klein"
 >
 <div
     class="caption"
-    data-fr=""
-    data-en="">
+    data-fr="Attente à la gare"
+    data-en="Waiting at Venice station">
  </div>
 </section>
 
+<!-- =========================
+     PHOTOGRAPHIE S15-2
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-152_Italie_Venise_Gare_Mannequin.jpg"
+alt="Italie - Venise - Gare - Mannequin - Charles Klein"
+>
+<div
+    class="caption"
+    data-fr="Attente à la gare"
+    data-en="Waiting at Venice station">
+ </div>
+</section>
 
 <!-- =========================
      PHOTOGRAPHIE S16
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-16_chalet_vue_cuisine.jpg"
-alt="Chalet- Vue cuisine - Charles Klein"
+<img src="images/c-klein-16_Italie_Venise_Gare-Garcon.jpg"
+alt="Italie - Venise - Gare - Garçon - Charles Klein"
 >
 <div
     class="caption"
-    data-fr=""
-    data-en="">
+    data-fr="Attente à la gare"
+    data-en="Waiting at Venice station">
  </div>
 </section>
 
@@ -312,15 +339,33 @@ alt="Chalet- Vue cuisine - Charles Klein"
      PHOTOGRAPHIE S17
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-17_chalet_evier_gaz.jpg"
-alt="Chalet- Cuisine - Charles Klein"
+<img src="images/c-klein-17_Italie_Venise_Gare_Au-sol.jpg"
+alt="Italie - Venise - Gare - Au sol - Charles Klein"
 >
 <div
     class="caption"
-    data-fr=""
-    data-en="">
+    data-fr="Attente à la gare"
+    data-en="Waiting at Venice station">
  </div>
 </section>
+
+<!-- =========================
+     PAGE TEXTE Venise
+========================= -->
+::: {.text-page .page}
+
+::: {.lang-fr}
+::: {.text-content}
+## Caorle, Adriatique
+:::
+:::
+::: {.lang-en}
+::: {.text-content}
+## Caorle, Adriatique
+:::
+:::
+
+:::
 
 <!-- =========================
      PHOTOGRAPHIE S18
@@ -340,7 +385,7 @@ alt="Chalet - Chambre du fond - Charles Klein"
      PHOTOGRAPHIE S19
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-19_chalet_derriere_lit2.jpg"
+<img src="images/c-klein-14-2_Italie_Venise_Arrivée_Gare.jpg"
 alt="Chalet - Lit chambre du fond - Charles Klein"
 >
 <div
